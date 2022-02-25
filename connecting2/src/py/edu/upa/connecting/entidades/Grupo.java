@@ -1,7 +1,8 @@
 /**
  * comentario de prueba 2
  * Linea agregada en feature 1
- */
+ * Línea agregada en feature_2
+ /
 package py.edu.upa.connecting.entidades;
 
 import java.io.Serializable;
