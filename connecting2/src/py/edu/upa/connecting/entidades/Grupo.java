@@ -2,6 +2,7 @@
  * comentario de prueba 2
  * Linea agregada en feature 1
  * Línea agregada en feature_2
+ * Línea agregad en hotfix
  /
 package py.edu.upa.connecting.entidades;
 
