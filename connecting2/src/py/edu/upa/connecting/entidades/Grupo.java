@@ -1,5 +1,6 @@
 /**
  * comentario de prueba 2
+ * Línea agregada en feature_2
  */
 package py.edu.upa.connecting.entidades;
 
